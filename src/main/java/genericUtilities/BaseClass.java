@@ -11,6 +11,6 @@ public class BaseClass {
 	
 	
 	public void add() {
-		System.out.println("Changes");
+		System.out.println("Changes done and pushed ");
 	}
 }
